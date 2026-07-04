@@ -10,11 +10,7 @@ I believe the best way to learn is by building things, asking questions, and und
 
 ## 🎯 Current Focus
 
-- End-to-end data analytics projects (EDA → insights → dashboards)
-
-- SQL optimization and complex query patterns
-
-- Python for data manipulation and statistical analysis
+- End-to-end data analytics projects (EDA → SQL insights → dashboards)
 
 - Transforming raw data into actionable business insights
 
@@ -51,7 +47,7 @@ I believe the best way to learn is by building things, asking questions, and und
 
 ### [📈 Employee Attrition Analysis](https://github.com/ishikabishnoi/emp-attrition-analysis)
 
-*In Progress* – Python (Pandas) EDA + MySQL queries → Power BI dashboard revealing patterns behind employee attrition. Understanding HR analytics at scale.
+Python (Pandas) EDA + MySQL queries → Power BI dashboard revealing patterns behind employee attrition. Understanding HR analytics at scale.
 
 ### [🛒 Retail Sales Analysis](https://github.com/ishikabishnoi/retail_sql_project)
 
