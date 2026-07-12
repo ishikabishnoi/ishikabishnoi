@@ -45,6 +45,10 @@ I believe the best way to learn is by building things, asking questions, and und
 
 ## 📊 Featured Projects
 
+### [Healthcare Operations Analysis](https://github.com/ishikabishnoi/Healthcare-Operations-Analysis)
+
+End-to-end Healthcare Operations Analytics project analyzing 500 patient cases using SQL, Python, and Power BI to uncover revenue drivers, patient complexity, and operational performance.
+
 ### [📈 Employee Attrition Analysis](https://github.com/ishikabishnoi/emp-attrition-analysis)
 
 Python (Pandas) EDA + MySQL queries → Power BI dashboard revealing patterns behind employee attrition. Understanding HR analytics at scale.
@@ -52,10 +56,6 @@ Python (Pandas) EDA + MySQL queries → Power BI dashboard revealing patterns be
 ### [🛒 Retail Sales Analysis](https://github.com/ishikabishnoi/retail_sql_project)
 
 SQL + Power BI project uncovering customer behavior, sales performance, and business trends. Deep-dive into window functions, CTEs, and data storytelling.
-
-### [🌐 DOVETAIL](https://github.com/ishikabishnoi/clg-project)
-
-Full-stack responsive web application (JavaScript, Supabase, PostgreSQL). Built to strengthen full-stack fundamentals and understand database design for real-world applications.
 
 ---
 
