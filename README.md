@@ -32,6 +32,7 @@ I believe the best way to learn is by building things, asking questions, and und
 
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -40,6 +41,7 @@ I believe the best way to learn is by building things, asking questions, and und
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 ---
 
@@ -63,9 +65,9 @@ SQL + Power BI project uncovering customer behavior, sales performance, and busi
 
 I document what I learn- not just code, but the ideas, observations, and thought processes behind analytical decisions.
 
-**📖** [![Blog](https://img.shields.io/badge/Blog-FF9800?style=flat-square&logo=blogger&logoColor=white)](https://izyink.blogspot.com)
+[![Blog](https://img.shields.io/badge/Blog-FF9800?style=flat-square&logo=blogger&logoColor=white)](https://izyink.blogspot.com)
 
-*Latest:* Data analytics journey, SQL deep-dives, project breakdowns
+
 
 ---
 
