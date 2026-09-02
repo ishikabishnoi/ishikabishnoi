@@ -1,26 +1,14 @@
- # Hi, I'm Ishika 👋
+##  What I’m Working On
 
-## 💼 About Me
-
-I believe the best way to learn is by building things, asking questions, and understanding *why* something works- not just *how* to use it. My current focus is on developing a strong analytical foundation through real-world data projects before moving deeper into machine learning.
-
-**Currently seeking:** Data Analyst roles | Open to ML-adjacent opportunities
+* Building end-to-end analytics projects - from data cleaning and exploratory analysis to SQL insights and interactive dashboards
+* Exploring remote-sensing workflows through satellite imagery, land-cover classification, and change detection
+* Strengthening my foundations in statistics and machine learning to transition from analytics into ML
 
 ---
 
-## 🎯 Current Focus
+## Toolkit
 
-- End-to-end data analytics projects (EDA → SQL insights → dashboards)
-
-- Transforming raw data into actionable business insights
-
-- Building a portfolio that bridges analytics → machine learning
-
----
-
-## 🛠 Toolkit
-
-**Languages & Databases:**  
+**Languages & Database:**  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -43,41 +31,43 @@ I believe the best way to learn is by building things, asking questions, and und
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
----
+**Remote Sensing & Geospatial Analytics:**  
 
-## 📊 Featured Projects
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Landsat](https://img.shields.io/badge/Landsat%208%2F9-2E7D32?style=flat-square&logoColor=white)
 
-### [Healthcare Operations Analysis](https://github.com/ishikabishnoi/Healthcare-Operations-Analysis)
-
-End-to-end Healthcare Operations Analytics project analyzing 500 patient cases using SQL, Python, and Power BI to uncover revenue drivers, patient complexity, and operational performance.
-
-### [📈 Employee Attrition Analysis](https://github.com/ishikabishnoi/emp-attrition-analysis)
-
-Python (Pandas) EDA + MySQL queries → Power BI dashboard revealing patterns behind employee attrition. Understanding HR analytics at scale.
-
-### [🛒 Retail Sales Analysis](https://github.com/ishikabishnoi/retail_sql_project)
-
-SQL + Power BI project uncovering customer behavior, sales performance, and business trends. Deep-dive into window functions, CTEs, and data storytelling.
+`NDVI` `NDBI` `MNDWI` `Cloud Masking` `Spectral Analysis` `Land-Cover Classification` `Change Detection`
 
 ---
 
-## 📝 Writing & Learning
+##  Featured Projects
 
-I document what I learn- not just code, but the ideas, observations, and thought processes behind analytical decisions.
+### [ NCR Urban Expansion & Change Detection](https://github.com/ishikabishnoi/Delhi-NCR-urban-expansion-mapping)
 
-[![Blog](https://img.shields.io/badge/Blog-FF9800?style=flat-square&logo=blogger&logoColor=white)](https://izyink.blogspot.com)
+Remote-sensing analysis of urban expansion across the National Capital Region using Landsat imagery, spectral indices, and Random Forest land-cover classification in Google Earth Engine.
 
+### [ Healthcare Operations Analysis](https://github.com/ishikabishnoi/Healthcare-Operations-Analytics)
 
+End-to-end analysis of 500 patient cases using Python, SQL, and Power BI to identify revenue drivers, patient-complexity patterns, payer concentration, and operational performance.
+
+### [ Employee Attrition Analysis](https://github.com/ishikabishnoi/emp-attrition-analysis)
+
+Python EDA, MySQL analysis, and Power BI reporting used to investigate how age, income, travel, and workplace factors influence employee attrition.
 
 ---
 
-## 🔗 Connect
+If you're into reading random thoughts, you can checkout my substack
+
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@zebrawhowrites)
+
+---
+
+## Here are my Socials-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishika-bishnoi)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zebrainaz00)
 
 ---
 
-> **Building projects, documenting the process, asking questions that matter.**
-
-> **⚡ Here's a Fun fact**: All the electrons in motion powering the global internet weigh roughly 50 grams- almost exactly the weight of a single medium-sized strawberry.
+> **Here's a Fun fact**: All the electrons in motion powering the global internet weigh roughly 50 grams- almost exactly the weight of a single medium-sized strawberry.
