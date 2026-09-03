@@ -49,7 +49,7 @@ Remote-sensing analysis of urban expansion across the National Capital Region us
 
 ### [ Healthcare Operations Analysis](https://github.com/ishikabishnoi/Healthcare-Operations-Analytics)
 
-End-to-end analysis of 500 patient cases using Python, SQL, and Power BI to identify revenue drivers, patient-complexity patterns, payer concentration, and operational performance.
+End-to-end analysis of 500 hospital records using Python, SQL, and Power BI to identify revenue patterns, patient-complexity differences, payer concentration, and operational performance.
 
 ### [ Employee Attrition Analysis](https://github.com/ishikabishnoi/emp-attrition-analysis)
 
